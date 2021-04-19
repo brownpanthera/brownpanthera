@@ -4,7 +4,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=s3ansh33p&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="s3ansh33p" />
 
-Hi, I'm Sean ✌️, a Full-Stack Web Developer, Hacker and Tech Enthusiast. Aside from that, I like to solve puzzles, socialize and attempt to get some good sleep😴. I hope to contribute to keeping an open web, develop apps, and building communities. Some languages I enjoy working with JavaScript (+NodeJS), PHP and SQL.
+Hi, I'm Ali ✌️, a Full-Stack Web Developer and Tech Enthusiast. Aside from that, I like to solve puzzles, socialize and attempt to get some good sleep😴. I hope to contribute to keeping an open web, develop apps, and building communities. Some languages I enjoy working with JavaScript (+NodeJS), PHP and SQL.
 
 <img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif" />
 
@@ -28,7 +28,6 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Hacker and Tech Enthusiast. Asi
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
@@ -41,13 +40,3 @@ Hi, I'm Sean ✌️, a Full-Stack Web Developer, Hacker and Tech Enthusiast. Asi
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp&logoColor=FB7A24)
-
-**Notes:**
-
-Currently a private codebase, which is why you don't see any repositories.
-If you would like to have access to a particular repository, send me an email.
-
-**Stats:**
-
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=s3ansh33p&count_private=true&include_all_commits=true&theme=onedark" alt="s3ansh33p" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3ansh33p&layout=compact&theme=onedark" />
