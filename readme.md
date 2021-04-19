@@ -7,7 +7,7 @@
 
 **About Me:**
 
-<img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
+<img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/l3vR4L50gVNsA4HNm/giphy.gif" />
 
 - 🌱 I’m currently learning javascript and react.
 - 👯 Part of Developer Community.
