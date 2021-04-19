@@ -29,7 +29,6 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=microsoft-office&logoColor=D83B01)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass&logoColor=CC6699)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
