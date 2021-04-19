@@ -4,7 +4,6 @@
 
 ✌️, a Full-Stack Web Developer and Tech Enthusiast. Aside from that, I like to solve puzzles, socialize and attempt to get some good sleep😴. I hope to contribute to keeping an open web, develop apps, and building communities. Some languages I enjoy working with JavaScript (+NodeJS), PHP and SQL.
 
-<img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif" />
 
 **About Me:**
 
