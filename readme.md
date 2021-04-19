@@ -7,7 +7,7 @@
 
 **About Me:**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s3ansh33p&label=Profile%20views&color=0e75b6&style=flat" alt="s3ansh33p" /> </p>
+<img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/l3vR4L50gVNsA4HNm/giphy.gif" />
 
 - 🌱 I’m currently learning javascript and react.
 - 👯 Part of Developer Community.
