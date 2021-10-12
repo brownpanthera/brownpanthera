@@ -2,17 +2,16 @@
 
 <!-- **brownpanthera/brownpanthera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-✌️, a Web Developer and Tech Enthusiast. Aside from that, I like to solve puzzles, socialize and attempt to get some good sleep😴. I hope to contribute to keeping an open web, develop apps, and building communities. Some languages I enjoy working with JavaScript (+NodeJS), PHP and SQL .
+✌️, a Web Developer and Tech Enthusiast. Aside from that, I like to solve puzzles, socialize and attempt to get some good sleep😴. I hope to contribute to keeping an open web, develop apps, and building communities. Some languages I enjoy working with JavaScript (+NodeJS) and SQL .
 
 
 **About Me:**
 
 <img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/l3vR4L50gVNsA4HNm/giphy.gif" />
 
-- 🌱 I’m currently learning Node.Js
+- 🌱 I’m currently learning React
 - 📫 How to reach me: via my [twitter](https://twitter.com/baesicallyali)
 - ⚡ Student at GNDIT College - Delhi
-- ✨ I am learning to speak Japneese
 
 **Tools / Languages:**
 
