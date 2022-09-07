@@ -10,7 +10,6 @@
 <img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/l3vR4L50gVNsA4HNm/giphy.gif" />
 
 - 📫 How to reach me: via my [twitter](https://twitter.com/baesicallyali)
-- ⚡ Student at GNDIT College - Delhi
 
 **Tools / Languages:**
 
